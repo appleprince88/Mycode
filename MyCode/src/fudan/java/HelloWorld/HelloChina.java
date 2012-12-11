@@ -10,8 +10,6 @@ public class HelloChina {
 		System.out.println("hello china");
 		System.out.println("hello china");
 		System.out.println("hello china");
-		System.out.println("hello china");
-		System.out.println("hello china");
 	}
 
 }
